@@ -14,6 +14,22 @@ This is an interactive quiz application built with **React**. It tests users wit
 
 ---
 
+## 📝 Add Your Own Questions
+
+You can easily customize the quiz by editing the `questionsData.js` file.
+
+Each question is represented as an object like this:
+
+```js
+{
+  question: "Your question text here?",
+  options: ["Option A", "Option B", "Option C", "Option D"],
+  answer: "Correct Answer"
+}
+```
+
+---
+
 ## 📸 Preview
 
 ![App Screenshot 1](src/assets/app_screenshot_1.png)
