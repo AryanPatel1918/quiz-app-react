@@ -36,7 +36,7 @@ This is an interactive quiz application built with **React**. It tests users wit
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/react-quiz-app.git
+git clone https://github.com/AryanPatel1918/quiz-app-react
 cd react-quiz-app
 ```
 
