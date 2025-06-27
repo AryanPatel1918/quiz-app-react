@@ -71,7 +71,7 @@ export default function App() {
       </>
     ) : (
       <>
-        <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', marginTop: '50px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', marginTop: '150px' }}>
           <h2>
             Your Score: <span style={{ color: (correctAnswers.current / questionsData.length) > 0.7 ? "hsl(140, 88.40%, 40%)" : "hsl(0, 87.40%, 47%)" }}>{correctAnswers.current} / {questionsData.length}</span>
           </h2>
