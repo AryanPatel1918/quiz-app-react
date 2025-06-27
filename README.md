@@ -35,9 +35,10 @@ This is an interactive quiz application built with **React**. It tests users wit
 ## 📦 Installation & Running Locally
 
 1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/react-quiz-app.git
-   cd react-quiz-app
+```bash
+git clone https://github.com/yourusername/react-quiz-app.git
+cd react-quiz-app
+```
 
 2. **Install dependencies**
 
